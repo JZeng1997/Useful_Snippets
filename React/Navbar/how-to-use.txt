@@ -1,0 +1,3 @@
+Install dependencies on terminal
+    - npm install react-router-dom
+    - npm install --save styled-components
